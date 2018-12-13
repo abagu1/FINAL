@@ -1,0 +1,167 @@
+@charset "utf-8";
+/* CSS Document */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:auto;
+    background-color: #570000;
+}
+
+li {
+    float:left;
+}
+
+li a {
+    display:block;
+    text-align: center;
+    padding: 25px;
+    text-decoration: none;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: floralwhite;
+	font-weight: 300;
+	font-size: 1.1em; /* 40px/16=2.5em */
+
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #B87D8C;
+	color: floralwhite;
+.active {
+  background-color: #B87D8C;
+}
+}
+body {
+	 background-image: url("2backsmall.jpg");
+    background-color: floralwhite;
+  background-position: top; 
+  background-repeat: no-repeat;
+  
+	}
+
+h1 {
+	font-size: 70px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: floralwhite;
+	text-shadow: 3px 2px dimgrey;
+	text-indent: 70px;
+		
+}
+h2{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px; 
+	text-indent: 70px;
+	color: #570000;
+}
+h3{
+	font-size: 30px;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+	text-decoration: overline;
+	text-align: left;
+	font-weight: 100;
+}
+h4{	
+	font-size: 15px;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+	text-align: left;
+	font-weight: 100;
+}
+	
+h5{
+	font-size: 30px;
+	 
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+    text-decoration: overline;
+	font-weight: 100;
+}
+h6{
+	font-size: 15px;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+	text-align: left;
+	font-weight: 100
+}
+h7{
+	font-size: 30px;
+	text-indent: 70px; 
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+    text-decoration: overline;
+}
+h8{
+	font-size: 15px;
+	text-indent: 70px;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+	text-align: left;
+}
+		
+h9{
+	font-size: 30px;
+	text-indent: 70px; 
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+    text-decoration: overline;
+}
+h10{font-size: 15px;
+	text-indent: 70px;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+	text-align: left;
+}
+h11{font-size: 70px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: floralwhite;
+	text-shadow: 3px 2px dimgrey;
+	text-indent: 70px;}
+h12{
+	font-size: 20px;
+	text-indent: 70px;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+	text-align: left;
+	font-weight: bold;
+}
+h13{font-size: 15px;
+	text-indent: 70px;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+	text-align: left;
+	
+}
+h14{
+	font-size: 20px;
+	text-indent: 70px;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+	text-align: left;
+	font-weight: bold;
+}
+h15{
+	font-size: 15px;
+	text-indent: 70px;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+	text-align: left;}
+a:link {
+  text-decoration: none;
+}
+h16{	
+	font-size: 30px;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+	text-decoration: overline;
+	text-align: left;
+	font-weight: 100;
+}
+h17{
+	font-size: 15px;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    color: #570000;
+	text-align: left;
+	font-weight: 100
+}
