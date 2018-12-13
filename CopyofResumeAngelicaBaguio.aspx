@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Angelica Baguio</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+	<br>
+	<ul>
+  <li><a href="index.html">About</a></li>
+  <li><a href="Activities.html">Activities</a></li>
+  <li><a href="CopyofResumeAngelicaBaguio.html">Resume</a></li>
+  <li><a href="Contact.html">Contact</a></li>
+</ul> 
+	<br>
+	<br>
+	<br>
+		<br>
+	<h11>Resume</h11>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<h12><h2 class="c2" id="h.ywkenn9uc8za"><span class="c5">EDUCATION:</span></h2><p class="c6"><span class="c15">Suffern High School</span></p><p class="c6"><span class="c15">49 Viola Rd</span></p><p class="c6"><span class="c15">Suffern NY, 10901</span></p><p class="c4 c17"><span class="c8"></span></p><p class="c9"><span class="c8">The University of New Haven</span></p><p class="c4"><span class="c8"></span></p><p class="c9"><span class="c8">300 Boston Post Road</span></p><p class="c4"><span class="c8"></span></p><p class="c9"><span class="c8">West Haven, CT, 06516</span></p><p class="c9"><span class="c8">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p><p class="c9 c21"></p><hr><p class="c4"><span class="c3"></span></p><h2 class="c2" id="h.r4hkl8xkb6uw"><span class="c5">ACTIVITIES, HONORS, AWARDS:</span></h2><p class="c7"><span class="c8">President of the Environmental Activism Club </span></p><p class="c7"><span class="c1 c10">Help make our community more eco-friendly.</span></p><p class="c7"><span class="c15">Music Honors Society 2016-2018</span></p><p class="c7"><span class="c8">Stage Crew 2015-present</span></p><p class="c7"><span class="c8">Sound Crew 2018-present</span></p><p class="c7"><span class="c8">Paws For Change 2016-2018</span></p><p class="c7"><span class="c1 c10">Raise money for local animal shelters.</span></p><p class="c7"><span class="c8">Interact Club 2017-2018</span></p><p class="c7"><span class="c1 c10">An extension of the Suffern Rotary.</span></p><p class="c7"><span class="c8">NYSSMA Piano Musicianship Evaluation 2017 &nbsp;</span></p><p class="c7"><span class="c1 c10">Prepared and performed classical piano pieces for evaluation. </span></p><p class="c7"><span class="c1 c10">Scored 26/28</span></p><p class="c7"><span class="c8">NYSSMA Voice Solo Evaluations 2017</span></p><p class="c7"><span class="c1 c10">Prepared and performed vocal pieces for evaluation.</span></p><p class="c7"><span class="c1 c10">Classical - scored 98/100</span></p><p class="c7"><span class="c1 c10">Jazz - scored 97/100</span></p><p class="c7"><span class="c8">NYSSMA All State Choir </span></p><p class="c7"><span class="c1 c10">A choir made out of select singers from the state of New York.</span></p><p class="c7"><span class="c8">NYSSMA All County Choir </span></p><p class="c7"><span class="c1 c10">A choir of select singers from the County of Rockland. </span></p><p class="c7"><span class="c8">Select Choir </span></p><p class="c7"><span class="c1 c10">Audition acapella choir that carols during Holidays and performs at local community events.</span></p><p class="c7"><span class="c8">Fully Charged 2018-present</span></p><p class="c7"><span class="c1 c10">Audition acapella choir that performs at University events.</span></p><p class="c7"><span class="c8">Audio Engineering Society 2018-present</span></p><p class="c7"><span class="c1 c10">A group that provides &nbsp;student workshops, competitions, and field trips, allowing students to grow as audio engineers outside of the classroom. </span></p><p class="c7"><span class="c8">Music Industry Club 2018-present</span></p><p class="c7"><span class="c1 c10">A professional organization that &nbsp;finds local artists to perform at various shows we host throughout the year, and gives members experience in setting up for shows, running them, and booking artists.</span></p><p class="c7"><span class="c8">Music With A Mission</span></p><p class="c7"><span class="c1">An organization that gives students performance opportunities while teaming up with different charities. All revenue made from concerts go to the organizations we have teamed with</span><span class="c1 c10">.</span></p><p class="c7"><span class="c8">Cabaret 2018</span></p><p class="c7"><span class="c14">The University of New Haven Theater department&rsquo;s show, audition only. </span></p><hr><p class="c4"><span class="c3"></span></p><h2 class="c2" id="h.pazuh2xj3cle"><span class="c5">WORK EXPERIENCE:</span></h2><p class="c6"><span class="c15">Hostess at Sushi Bada 2015</span></p><p class="c6"><span class="c8">Cashier at McDonald&rsquo;s 2017</span></p><p class="c6"><span class="c14">Worked in a timely manner under pressure and developed organizational skills</span></p><hr><p class="c4"><span class="c3"></span></p><h2 class="c2" id="h.bagsx0cy26bt"><span class="c5">HOBBIES/INTERESTS:</span></h2><p class="c6"><span class="c15">Creative Writing</span></p><p class="c6"><span class="c8">Environmental Activism</span></p><p class="c6"><span class="c8">Composing and recording music</span></p><p class="c6"><span class="c8">Vocal Soloist </span></p><p class="c6"><span class="c8">Choir</span></p><p class="c6"><span class="c8">Piano </span></p><p class="c6"><span class="c8">Guitar</span></p><hr><p class="c4"><span class="c3"></span></p><h2 class="c2" id="h.57usu3a7q0cz"><span class="c13">SKILLS:</span></h2><p class="c6"><span class="c8">Technologically savvy </span></p><p class="c6"><span class="c8">Creative Writing</span></p><p class="c6"><span class="c8">Academic Writing</span></p><p class="c6"><span class="c8">Actor</span></p><p class="c6"><span class="c8">Dancer</span></p><p class="c6"><span class="c8">Experience with GarageBand, Logic Pro, and Pro Tools</span></p><p class="c6"><span class="c8">Singer </span></p><p class="c6"><span class="c8">Proficient Sight Reader </span></p><p class="c6"><span class="c8">Can sing both Classical and Jazz </span></p><p class="c6"><span class="c8">Pianist</span></p><p class="c6"><span class="c8">Guitarist</span></p><p class="c6"><span class="c8">Good ear </span></p><p class="c6"><span class="c8">Stage setup</span></p><p class="c6"><span class="c8">Performance</span></p><p class="c6"><span class="c8">Can run a recording session</span></p><p class="c6"><span class="c8">Stage set builder</span></p><p class="c6"><span class="c8">Sound crew</span></p><p class="c6 c12"><span class="c8"></span></p><p class="c6"><span class="c8">&nbsp;</span></p></h12>
